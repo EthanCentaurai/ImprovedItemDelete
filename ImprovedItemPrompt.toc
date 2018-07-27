@@ -1,0 +1,7 @@
+## Interface: 80000
+## Title: Improved Item Prompt
+## Notes: Easy item deletion with a few tweaks.
+## Author: Ethan Centaurai
+## Version: @project-version@
+
+ImprovedItemPrompt.lua
