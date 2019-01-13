@@ -1,4 +1,4 @@
-## Interface: 80000
+## Interface: 80100
 ## Title: Improved Item Prompt
 ## Notes: Easy item deletion and a few other tweaks.
 ## Author: Ethan Centaurai
