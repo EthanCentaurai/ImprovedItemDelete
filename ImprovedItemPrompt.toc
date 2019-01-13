@@ -1,6 +1,6 @@
 ## Interface: 80000
 ## Title: Improved Item Prompt
-## Notes: Easy item deletion with a few tweaks.
+## Notes: Easy item deletion and a few other tweaks.
 ## Author: Ethan Centaurai
 ## Version: @project-version@
 
