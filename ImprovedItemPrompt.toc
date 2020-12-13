@@ -1,7 +1,7 @@
-## Interface: 80200
+## Interface: 90002
 ## Title: Improved Item Prompt
 ## Notes: Easy item deletion and a few other tweaks.
-## Author: Ethan Centaurai
+## Author: Ravendwyr
 ## Version: @project-version@
 ## X-Curse-Project-ID: 299138
 
